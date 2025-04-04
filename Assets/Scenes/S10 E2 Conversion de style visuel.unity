@@ -1401,7 +1401,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 53b0c46a9c0e36f418a867a6b25d43f7, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb01d57404e3a174bb883565671df5e9, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 0
@@ -1410,7 +1410,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 0.72
+  m_PixelsPerUnitMultiplier: 0.175
 --- !u!222 &955243519
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2803,10 +2803,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 453440828, guid: 5481a5015af8e7c47964ca4d95f2c5f1, type: 3}
-  m_Type: 0
+  m_Sprite: {fileID: 21300000, guid: da383643da7b0bb4aade6e421e91025d, type: 3}
+  m_Type: 1
   m_PreserveAspect: 1
-  m_FillCenter: 0
+  m_FillCenter: 1
   m_FillMethod: 1
   m_FillAmount: 0.949
   m_FillClockwise: 1
@@ -2855,8 +2855,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 947.5471, y: -541.5321}
-  m_SizeDelta: {x: 1951.4843, y: 1119.8354}
+  m_AnchoredPosition: {x: 960.20844, y: -544.305}
+  m_SizeDelta: {x: 1955.0164, y: 1123.2498}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1966241416
 MonoBehaviour:
@@ -2871,14 +2871,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.4528302, g: 0.37697363, b: 0.29690284, a: 0.8156863}
+  m_Color: {r: 0.2270826, g: 0.5943396, b: 0.25122112, a: 0.8156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bcf2c9594a3354a499da9d6442c7447b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: eb01d57404e3a174bb883565671df5e9, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 0
@@ -2887,7 +2887,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 0.64
+  m_PixelsPerUnitMultiplier: 0.12
 --- !u!222 &1966241417
 CanvasRenderer:
   m_ObjectHideFlags: 0

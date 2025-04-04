@@ -47,8 +47,8 @@ public class Timer : MonoBehaviour
        
         if (affiche >= 10)
         {
-        _chrono = 0;
-         _cercle.fillAmount += 0.025f;
+            _chrono = 0;
+            _cercle.fillAmount += 0.025f;
         }
 
         _textTemps.text = string.Format("{0:00}", affiche);
